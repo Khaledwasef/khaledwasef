@@ -178,8 +178,16 @@ My goal is to become a developer who understands not only how to **build applica
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledwasef&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledwasef&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="Khaled Wasef GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -187,7 +195,10 @@ My goal is to become a developer who understands not only how to **build applica
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khaledwasef&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Khaledwasef&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -195,11 +206,12 @@ My goal is to become a developer who understands not only how to **build applica
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khaledwasef/khaledwasef/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/Khaledwasef/Khaledwasef/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 ---
-
 # 🎯 My Vision
 
 I believe technology becomes truly valuable when it solves a real problem.
