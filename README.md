@@ -178,17 +178,10 @@ My goal is to become a developer who understands not only how to **build applica
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-    alt="Khaled Wasef GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true" alt="Khaled Wasef GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
