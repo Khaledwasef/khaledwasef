@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Khaled Wasef
+# 👋 Hi, I'm Khaled Wasef
 
 ### 💻 Full-Stack Developer | Software & Control Engineer | Problem Solver
 
@@ -7,22 +7,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khaledwasef">
-    <img src="https://img.shields.io/github/followers/khaledwasef?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/Khaledwasef">
+    <img src="https://img.shields.io/github/followers/Khaledwasef?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/khaledwasef">
-    <img src="https://img.shields.io/github/stars/khaledwasef?label=Stars&style=for-the-badge" />
+  <a href="https://github.com/Khaledwasef">
+    <img src="https://img.shields.io/github/stars/Khaledwasef?label=Stars&style=for-the-badge" alt="GitHub Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=khaledwasef&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Khaledwasef&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Khaled Wasef**, an Electrical Engineering student specializing in **Software & Control Engineering**, with a strong passion for software development, automation, cloud technologies, and solving real-world problems through technology.
+I'm **Khaled Wasef**, an Electrical Engineer specializing in **Software & Control Engineering**.
 
-I enjoy turning ideas into **complete, scalable, and practical systems** — from designing the backend and database to building modern interfaces, integrating APIs, deploying applications, and connecting software with hardware.
+I focus on building practical software systems and integrating them with **AI, cloud technologies, networking, automation, IoT, and embedded systems**.
+
+I enjoy working across the entire development lifecycle — from designing databases and backend APIs to building interfaces, integrating external services, deploying applications, and connecting software with hardware.
 
 > **I don't just write code — I build solutions.**
 
@@ -30,98 +32,106 @@ I enjoy turning ideas into **complete, scalable, and practical systems** — fro
 
 ## 🧠 What I Do
 
-```text
-🌐 Full-Stack Development
-⚙️ Backend & API Development
-🗄️ Database Design & Management
-☁️ Cloud & Deployment
-🔐 Networking & Cybersecurity
-🤖 AI Integration
-📊 Data & System Analysis
-🔌 IoT & Embedded Systems
-🧩 System Architecture
-```
+| Area                      | Focus                                        |
+| ------------------------- | -------------------------------------------- |
+| 🌐 Full-Stack Development | Web applications, dashboards, SaaS platforms |
+| ⚙️ Backend Development    | APIs, business logic, authentication         |
+| 🗄️ Database Engineering  | MySQL, database design, optimization         |
+| ☁️ Cloud & Deployment     | AWS, Linux, Nginx, Docker                    |
+| 🔐 Networking & Security  | CCNA, FortiGate, network security            |
+| 🤖 AI Integration         | AI APIs, intelligent features, automation    |
+| 🔌 IoT & Embedded Systems | ESP32, sensors, hardware integration         |
+| 🧩 System Architecture    | Designing complete end-to-end systems        |
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,html,css" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,bootstrap,tailwind,mysql" alt="Web Technologies" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,linux" alt="Development Tools" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx" alt="Cloud Technologies" />
 </p>
 
-### 🔐 Networking & Security
+### 🔐 Networking & Cybersecurity
 
 ```text
 CCNA
 FortiGate
 VLANs
 Routing & Switching
-Network Security
+OSPF
+NAT
+DHCP
 Firewall Configuration
-Packet Tracer
+Network Security
+Cisco Packet Tracer
+EVE-NG
+VMware
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎬 Cinema Management System
+## 🎬 Cineverse AI — Cinema Booking System
 
-A complete cinema management platform built with Laravel.
+A complete cinema management and booking platform built with **Laravel**, designed to manage movies, halls, seats, showtimes, bookings, and users.
 
-### Features
+### ✨ Features
 
-* 🎥 Movies Management
-* 🏛️ Halls Management
+* 🎥 Movie Management
+* 🏛️ Hall Management
 * 🪑 Seat & Hall Layout Management
-* 🎟️ Booking System
+* 🎟️ Online Booking
 * 🕐 Showtime Management
-* 👥 User & Role Management
+* 👥 User Roles & Permissions
 * 📊 Admin Dashboard
-* 🤖 AI Chat Integration
+* 🤖 AI Chat Assistant
 * 🔐 Authentication & Authorization
+* 🧠 AI-powered booking assistance
 
-**Stack:** Laravel • PHP • MySQL • Blade • JavaScript • AI APIs
+**Tech Stack**
+
+`Laravel` `PHP` `MySQL` `Blade` `JavaScript` `AI APIs`
 
 ---
 
 ## ❤️ Vital Tech — Smart Healthcare System
 
-An IoT-based smart wearable system designed to collect and monitor vital health data.
+An **IoT-based wearable healthcare system** designed to collect and visualize physiological and environmental data using multiple sensors.
 
-### Hardware
+### 🔌 Hardware
 
 * ESP32
-* MAX30102 / MAX30105
+* MAX30102
 * MPU6050
 * DS18B20
 * DHT11
-* GPS NEO-M6
+* NEO-6M GPS
 * MQ135
+* OLED Display
 * Buzzer
 
-### Software
+### 💻 Software
 
 * Arduino
 * PHP
@@ -131,15 +141,15 @@ An IoT-based smart wearable system designed to collect and monitor vital health 
 * JavaScript
 * Chart.js
 
-The system collects sensor data from the wearable device and provides a web dashboard for monitoring and visualization.
+The system collects sensor data from the wearable device and sends it to a web platform for **monitoring, visualization, and analysis**.
 
 ---
 
 ## 📱 FRAS — Facial Recognition Attendance System
 
-A smart attendance management system designed to improve attendance tracking and reduce cheating.
+A smart attendance platform combining **Face Recognition, Dynamic QR Codes, and academic management tools**.
 
-### Features
+### ✨ Features
 
 * 📷 Face Recognition
 * 🔳 Dynamic QR Attendance
@@ -151,16 +161,22 @@ A smart attendance management system designed to improve attendance tracking and
 * 👨‍🏫 Lecturer Dashboard
 * 👨‍🎓 Student Dashboard
 
-**Stack:** PHP • MySQL • JavaScript • AI/ML • HTML • CSS
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript` `AI/ML` `HTML` `CSS`
 
 ---
 
 # ☁️ Currently Learning
 
-I'm currently expanding my skills in:
+I'm currently expanding my knowledge in:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="Currently Learning" />
+</p>
 
 ```text
-AWS ☁️
+AWS
 Cloud Architecture
 DevOps
 Docker
@@ -171,49 +187,52 @@ AI Integration
 Scalable Backend Architecture
 ```
 
-My goal is to become a developer who understands not only how to **build applications**, but also how to **deploy, secure, scale, and maintain them**.
+My goal is to understand the complete lifecycle of software systems:
+
+**Build → Deploy → Secure → Scale → Maintain**
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true" alt="Khaled Wasef GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
-
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Khaledwasef&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Khaledwasef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Khaledwasef/Khaledwasef/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Khaledwasef/Khaledwasef/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
 ---
+
 # 🎯 My Vision
 
-I believe technology becomes truly valuable when it solves a real problem.
+I believe technology becomes truly valuable when it solves a **real problem**.
 
 My goal is to combine:
 
 **Software + Engineering + AI + Cloud + Automation**
 
-to build systems that are not only functional, but also **secure, scalable, and impactful**.
+to build systems that are:
+
+* ⚡ Practical
+* 🔐 Secure
+* 📈 Scalable
+* 🧩 Well-Engineered
+* 🌍 Useful in the real world
 
 ---
 
@@ -221,16 +240,16 @@ to build systems that are not only functional, but also **secure, scalable, and 
 
 <p align="center">
 
-<a href="https://github.com/khaledwasef">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Khaledwasef">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/khaledwasef/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:khaledwasef56@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </p>
