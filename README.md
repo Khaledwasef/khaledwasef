@@ -193,27 +193,22 @@ My goal is to understand the complete lifecycle of software systems:
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaledwasef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledwasef&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Khaledwasef&theme=tokyo-night&hide_border=true"
+    alt="Khaled Wasef GitHub Activity Graph"
+  />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khaledwasef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Khaledwasef/Khaledwasef/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <a href="https://github.com/Khaledwasef">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaledwasef&theme=tokyonight"
+      alt="GitHub Profile Details"
+    />
+  </a>
 </p>
 
 ---
